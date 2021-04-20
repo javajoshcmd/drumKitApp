@@ -1,4 +1,4 @@
-function playSound(e) {
+const playSound=(e) => {
     const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);
     const audio = document.querySelector(`audio[data-key="${e.keyCode}"]`);
     // adds the key pressed into the audio data-key
