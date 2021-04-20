@@ -1,0 +1,5 @@
+body{
+    display: flex;
+    background-image: url(images/drumKit.jpg);
+    background-repeat: no-repeat;
+}
