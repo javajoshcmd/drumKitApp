@@ -20,8 +20,6 @@ body{
 
 .key {
     width: 10%;
-    /* padding-top: 20px;
-    padding-bottom: 20px; */
     text-align: center;
     background: rgba(2, 1, 9, 0.185);
     color: #fff;
@@ -74,12 +72,7 @@ margin: 1%;
 margin: 1%;
                 
 }       
-/* @media (min-width:480px) {
-    .key {
-     min-width:80px;
-      font-size:18px;
-    }
-  } */
+
 .playing {
     transform:scale(1.1);
     border-color:  #575758;
